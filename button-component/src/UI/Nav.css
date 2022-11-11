@@ -17,3 +17,8 @@
 .logo > span {
   color: var(--light-red);
 }
+.nav > *:hover,
+.active {
+  color: var(--greyish-blue);
+  font-weight: var(--font-bold);
+}
