@@ -8,7 +8,7 @@ const Nav = () => {
       <li>Colors</li>
       <li>Typography</li>
       <li>Spaces</li>
-      <li>Buttons</li>
+      <li className="active">Buttons</li>
       <li>Inputs</li>
       <li>Grid</li>
     </nav>
